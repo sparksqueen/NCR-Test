@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap');
+
+
+body {
+	background-size: 80vmax;
+	margin: 0px;
+	margin-left: 10vmax;
+	background-color: #f1f1f1;
+
+}
+
+#container{
+   	background-color: #99C041;
+	width: 80vmax;
+	height: 100vmax;
+}
+
+#barraSuperior{
+	background-color: #58585B; 
+	width: 80vmax;
+	height: 21vh;
+	text-align: center;
+}
+
+#titulo{
+	font-family: 'Nunito', sans-serif;
+	color: #99C041;
+	font-size: 3.8vmax;
+	width: 100vw;
+	text-align: center;
+	line-height: 21vmax;
+	text-shadow: -0.2vw 0.2vw #00000080;
+
+}
+
+.SubColGrilla { 
+	width: 33vw;
+	height: 55vh;
+ }
+ .SubColBoton { 
+	width: 50vw;
+	height: 20vh;
+ }
+
+ .boton {
+ 	background: none;
+    color: inherit;
+    border-color: #00000080;
+ 	width: 32vmax;
+ 	height: 5vmax;
+ 	border-radius: 5vw;
+ 	box-shadow: 0.3vw 0.3vw #00000080;
+ 		font-family: 'Nunito', sans-serif;
+	color: #f1f1f1;
+	font-size: 3vmax;
+ }
+
+
+ .SubColGrilla{
+ 	align-content: center;
+ 	width:33vw;
+ }
+
+ .DisplayContenido {
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	background: #bbbbbb;
+    color: inherit;
+    border-color: #00000080;
+ 	width: 20vmax;
+ 	height: 5vmax;
+ 	border-radius: 5vw;
+ 	box-shadow: 0.3vw 0.3vw #00000080;
+ 	margin-top: vh;
+ 	margin-bottom: 0vh;
+ }
+
+ .TituloDisplay { 
+ 	margin-bottom: 1vh;
+ 	margin-top: 5vh;
+ 	font-size: 1.3vw;
+ 	font-family: 'Nunito', sans-serif;
+ 	color: #58585B;
+  }
+
+  .monto { 
+  		margin-top: 0vw;
+  	 	font-family: 'Nunito', sans-serif;
+  	 	font-size: 3vmax;
+  	 	line-height: 5vmax;
+  	 	color: #6A872B;
+   }
+
+
+
+   .Grilla{
+   	padding-top:0px;
+   	font-family: 'Cairo', sans-serif;
+   	font-size: 4vh;
+   	color: #f1f1f1;
+   }
+
+   	.GrillaTitulo {
+   		width:33vw;
+   		font-size: 1.5vw;
+   		font-family: 'Nunito', sans-serif;
+   		padding-bottom: 1vh;
+   		color: #58585B;
+   	}
+
+   	img{
+   		width: 6vw;
+   		margin-top: 0.1vw;
+   	}
