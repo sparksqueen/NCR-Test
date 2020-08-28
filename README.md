@@ -1,4 +1,4 @@
-# NCR-Test
+# NCR-Test - Proyecto realizado por Ángeles Peña
 
 
 Los algoritmos fueron creados para ejecutarse desde la consola de un navegador web, sin embargo, Clavos tambien puede ejecutarse desde terminal. 
